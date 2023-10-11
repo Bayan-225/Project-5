@@ -1,0 +1,90 @@
+.container {
+    max-width: 1116px;
+    margin: 0 auto;
+}
+.header-top {
+    display: flex;
+    justify-content: space-between;
+}
+nav ul {
+    font-weight: 500;
+    line-height: 26.25px;
+    letter-spacing: 10%;
+    display: flex;
+    grid-gap: 0 42px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Revalia', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.glav {
+    color: #34547A;
+}
+
+nav ul li {
+    list-style: none;
+    user-select: none;
+}
+nav ul li a {
+    color: #34547A;
+    text-decoration: none;
+}
+.header-info {
+    display: flex;
+    justify-content: space-between;
+}
+h1 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Revalia', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 164.063%;
+
+}
+p {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Revalia', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.063%;
+}
+button {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Revalia', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-family: 16px;
+    font-weight: 400;
+    line-height: 164.063%;
+    letter-spacing: 1.6px;
+    width: 225px;
+    height: 65px;
+    flex-shrink: 0;
+    background-color: #34547A;
+    color: white;
+    outline: none;
+}
+
+.p {
+    color: #727272; 
+    padding-bottom: 60px;   
+}
+.div2, .div1 {
+    width: 50%;
+    padding-top: 162px;
+
+}
+
