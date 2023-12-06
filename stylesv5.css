@@ -307,7 +307,7 @@ button {
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 420px) {
     .img1{
         width: 280px;
         height: 280px;
